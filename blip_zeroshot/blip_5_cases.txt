@@ -1,0 +1,32 @@
+5 Example Cases (3 wrong + 2 correct)
+====================================
+[Case 1] qid=0 | image=synpic26158.jpg | yesno=False
+Q: Is the mass heterogeneous or homogeneous in appearance?
+GT: Heterogeneous
+Pred: semicircle
+EM: 0
+------------------------------------
+[Case 2] qid=2 | image=synpic27601.jpg | yesno=False
+Q: Where is the spleen located?
+GT: On the left
+Pred: upper right
+EM: 0
+------------------------------------
+[Case 3] qid=4 | image=synpic55245.jpg | yesno=True
+Q: Is the mass compressing the mid brain on this section?
+GT: Yes
+Pred: no
+EM: 0
+------------------------------------
+[Case 4] qid=1 | image=synpic40596.jpg | yesno=True
+Q: Is this a hepatic mass?
+GT: yes
+Pred: yes
+EM: 1
+------------------------------------
+[Case 5] qid=3 | image=synpic34449.jpg | yesno=False
+Q: Which side is more clearly visualized?
+GT: Left
+Pred: left
+EM: 1
+------------------------------------

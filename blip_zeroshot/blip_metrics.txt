@@ -1,0 +1,7 @@
+Evaluation Metrics
+============================
+Total samples: 451
+Overall EM: 28.16%
+
+Yes/No samples: 243 | Yes/No EM: 48.97%
+Open-ended samples: 208 | Open EM: 3.85%
